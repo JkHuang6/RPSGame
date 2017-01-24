@@ -48,6 +48,8 @@ public class RPSGame
             System.out.println("Draw!");
         } else {
             System.out.println("That is not valid, please enter either R, P, or S!");
+           
         }
+        System.out.print("TESTESTESST");
     }
 }
